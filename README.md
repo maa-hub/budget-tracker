@@ -28,6 +28,6 @@ THEN the deposits or expenses added while they were offline are added to their t
 https://fathomless-taiga-88092.herokuapp.com/
 
 ## Contribution
-Made with ❤️ by Maame
+Made with ❤️ by Maame (with assistance from class repository)
 
 ![alt text](./public/images/budget-tracker.png)
